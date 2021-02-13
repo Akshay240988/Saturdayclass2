@@ -6,5 +6,6 @@ public class Sample3 {
 
         System.out.println("23424");
 
+        System.out.println("Final");
     }
 }
