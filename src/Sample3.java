@@ -2,5 +2,8 @@ public class Sample3 {
     public static void main(String[] args) {
 
         System.out.println("changes made by Akshay");
+        System.out.println("Changed by Prathmesh");
+
+
     }
 }
